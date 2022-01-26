@@ -9,5 +9,5 @@ repositories:
     version: ros2
   vision_opencv:
     type: git
-    url: https://github.com/ros-perception/vision_opencv.git
+    url: https://github.com/CollinNHays/vision_opencv.git
     version: ros2
